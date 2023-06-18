@@ -3,7 +3,7 @@
 
 - 🤝 I’m currently looking for a **job**
 
-- ⚡ Fun fact **I believe in learning-by-doing**
+- ⚡ Fun fact:  **I believe in learning-by-doing**
 
 - 📫 How to reach me **errjem2@gmail.com**
 
