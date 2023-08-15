@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Houssame</h1>
-<h3 align="center">A Passionate Front-End Developer From Morocco</h3>
+<h3 align="center">A Passionate Full-Stack Developer From Morocco</h3>
 
 - 🤝 I’m currently looking for a **job**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/errjem2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="errjem2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/houssame-errjem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houssame-errjem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/houssameerrjem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houssame-errjem" height="30" width="40" /></a>
 <a href="https://fb.com/houssame.errjem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="houssame.errjem" height="30" width="40" /></a>
 <a href="https://instagram.com/houssame_errjem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="houssame_errjem" height="30" width="40" /></a>
 </p>
