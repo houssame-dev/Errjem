@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Houssame</h1>
-<h3 align="center">A Passionate Full-Stack Developer From Morocco</h3>
+<h3 align="center">A Passionate Front-End Developer From Morocco</h3>
 
 - 🤝 I’m currently looking for a **job**
 
