@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Houssame</h1>
 <h3 align="center">A Passionate Front-End Developer From Morocco</h3>
 
-- 🤝 open to **work**
+- 🤝 Open to **work**
 
 - ⚡ Fun fact **I believe in learning-by-doing**
 
